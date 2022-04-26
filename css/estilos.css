@@ -1,0 +1,9 @@
+body {background-color:rgb(240, 240, 260);}
+h1 {font-size:400%;;font-family:lucida console; color:green; text-align:center; text-shadow: 1px 1px 2px #000000}
+h2 {color: blue;font-family:serif;text-align:center; text-decoration-line:underline}
+h3 {color:blue; text-decoration-line:underline}
+.texto1 {font-family:futura;font-size:135%;text-align: center; text-shadow: 0 2px 3px #ff0000}
+ul {font-family:helvetica}
+.desordenadas {color: green}
+ol {font-family:helvetica}
+.ordenadas {color: red}
